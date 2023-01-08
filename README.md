@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anruigu
-- 👀 I’m interested in applied AI
-- 🌱 I’m currently learning path planning for autonomous vehicles
+- 👀 My work is mostly in the two organizations data-science-era and ml-robotics-era
 - 📫 anrui0706@gmail.com
 
 <!---
